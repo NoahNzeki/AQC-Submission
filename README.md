@@ -7,4 +7,4 @@ Noah Nzeki William
 Open Innovation Track
 
 ### Hack the Horizon Proposal
-[Proposal Link](https://github.com/NoahNzeki/AQC-Submission/blob/63bd632f3448228bae03807f76c909185bccb68b/Noah_William_AQC_Proposal.pdf)
+[Proposal Link](https://drive.google.com/file/d/1rh-RR_GqitA-SUlmo6v_B3DqkEO-0Gyq/view?usp=sharing)
